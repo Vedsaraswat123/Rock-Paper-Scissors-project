@@ -44,4 +44,4 @@ This is a console-based Rock Paper Scissors game developed in Java. The user com
 
 ## Author
 
-Ved Prakash
+Ved Prakash Saraswat
